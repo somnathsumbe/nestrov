@@ -1,12 +1,8 @@
 ul li {
 	list-style:none;
 }
-/* -------------------------------- 
 
-Main Components 
-
--------------------------------- */
-.cd-header {
+cd-header {
   height: 100px;
   line-height: 170px;
   position: relative;
